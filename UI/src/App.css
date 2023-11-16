@@ -1,0 +1,14 @@
+td{
+  border:1px solid #dddd;
+  padding:5px;
+}
+
+table{
+  border-collapse: collapse;
+  width:'100%';
+  border:1px solid #dddd;
+}
+
+.btn-primary{
+  margin-top:24px;
+}
